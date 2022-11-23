@@ -1,5 +1,5 @@
 {
-  "name": "i18next-icu",
+  "name": "i18next-icu-fork",
   "version": "2.0.4",
   "description": "i18nFormat plugin to use ICU format with i18next",
   "main": "./index.js",
@@ -15,7 +15,7 @@
     "url": "https://github.com/i18next/i18next-icu"
   },
   "peerDependencies": {
-    "intl-messageformat": "^9.0.0"
+    "intl-messageformat": "^10"
   },
   "devDependencies": {
     "@babel/cli": "^7.12.13",
